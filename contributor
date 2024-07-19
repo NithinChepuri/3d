@@ -1,0 +1,13 @@
+** Steps To Contribute: **
+**This is bold text**
+Clone our Github repo/Install Gip file
+Install all packages with command line(npm i)
+Make your Blender Document and export it in .gltf format
+Drag & Drop the gltf file in Public folder of ProjectCodes
+Convert GLTF to .jsx using command line ( npx gltfjsx filename.glb )
+Move the new .jsx file to src folder 
+Label the parts accordingly( example code is commented in Campus.jsx)
+Write onHover and onClick functions for each label( as mentioned in Campus.jsx)
+Import the jsx file in App.js 
+Complete Routing in App.js
+Push it into Git using command line
